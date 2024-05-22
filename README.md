@@ -1,8 +1,8 @@
-### Ola bem vindo ao meun perfil 💙
+### Ola bem vindo ao meu perfil 💙
 
 Meu nome é Maurilio Cezario
 
-- Estou estudand na [Alura](https://alura.com.br)
+- Estou estudando na [Alura](https://alura.com.br)
 - Estou me desenvolvendo na linguagem Java Script
 - Utilizo esse espaço para minha organização dos meus projetos desenvolvidos
 
